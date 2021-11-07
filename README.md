@@ -1,4 +1,4 @@
-Private [matrix](https://matrix.org/) homeserver for end-to-end private communication with friends and family in an attempt to gradually reduce the reliance on Whatsapp and Facebook Messenger. The homeserver is based on [Synapse](https://matrix.org/docs/projects/server/synapse) with Element [web](https://matrix.org/docs/projects/client/element) and [mobile app](https://matrix.org/docs/projects/client/element-android) as client applications.
+Private [matrix](https://matrix.org/) homeserver for secure, decentralised, real-time communication with friends and family in an attempt to gradually reduce the reliance on Whatsapp and Facebook Messenger. The homeserver is based on [Synapse](https://matrix.org/docs/projects/server/synapse) with Element [web](https://matrix.org/docs/projects/client/element) and [mobile app](https://matrix.org/docs/projects/client/element-android) as client applications.
 
 ![homeserver-context](https://github.com/pitC/matrix-homeserver/blob/47d05f6c3c001a2b0bc0a2bd10870e10e522dc57/docs/homeserver-context.svg)
 
