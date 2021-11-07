@@ -12,4 +12,5 @@ Future work:
 * Add further bridges (Facebook Messanger, Slack, Discord)
 * Automate Disaster Recovery
 * Move media store from EBS to S3
+* Automate server maintenance
 
